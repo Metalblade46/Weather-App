@@ -1,6 +1,6 @@
 Weather App
 
-[Check it out!]([url](https://sabby-weather-app.netlify.app/))
+[Check it out!](https://sabby-weather-app.netlify.app/)
 
 This app fetches weather data from weatherapi.com for which you would need a api-key
 So, sign up to weatherapi.com, get your api-key and you will be good to go.
